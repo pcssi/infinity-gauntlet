@@ -4,7 +4,7 @@
   "description": "The Infinity Gauntlet was designed to hold six of the 'soul gems', better known as the Infinity Gems. — Edit",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
