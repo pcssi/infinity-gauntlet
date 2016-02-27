@@ -1,0 +1,44 @@
+{
+  "name": "infinity-gauntlet",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "The Infinity Gauntlet was designed to hold six of the 'soul gems', better known as the Infinity Gems. — Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcssi/infinity-gauntlet.git"
+  },
+  "keywords": [
+    "Node.js",
+    "NPM",
+    "Angular2",
+    "Trump Facist",
+    "Ted Cruz",
+    "‬‪Zodiac Killer"
+  ],
+  "author": "Pete Colapietro",
+  "contributors": [
+    {
+      "name": "Pete Colapietro",
+      "email": "pcssi@users.noreply.github.com"
+    }
+  ],
+  "engines": {
+    "node": ">=4.3.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcssi/infinity-gauntlet/issues"
+  },
+  "homepage": "https://github.com/pcssi/infinity-gauntlet#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.7",
+    "es6-promise": "^3.1.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "^5.0.0-beta.2",
+    "zone.js": "^0.5.15"
+  }
+}
