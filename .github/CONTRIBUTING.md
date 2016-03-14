@@ -19,7 +19,7 @@
 
 #### **Do you have questions about the source code?**
 
-#### **Do you want to contribute to the Rails documentation?**
+#### **Do you want to contribute to the infinity-gauntlet documentation?**
 
 Thanks! :heart: :heart: :heart:
 
